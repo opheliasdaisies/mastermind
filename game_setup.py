@@ -2,7 +2,7 @@ import random
 
 class Game:
 
-    MAX_TURNS = 1
+    MAX_TURNS = 10
     COLOR_CODES = {
         'R': '\u001b[41m',
         'O': '\u001b[101m',
